@@ -10,3 +10,7 @@
     Learned what is subprocess and how to use commands in python code.
     Practicied by using differnt print methods and handle errors.
     Learned how to store output and how to utilize the output.
+
+**Day 3 - OS Module**
+    Learned what is OS MModule and how to use path amd environment variables in python code.
+    
