@@ -14,3 +14,6 @@
 **Day 3 - OS Module**
     Learned what is OS MModule and how to use path amd environment variables in python code.
     
+**Day 4 - FAST API - GET Method**
+    Learned what is FAST API and how it helps in realtime.
+    Learned How GET method works and how to implement it.
