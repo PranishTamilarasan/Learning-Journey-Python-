@@ -17,3 +17,7 @@
 **Day 4 - FAST API - GET Method**
     Learned what is FAST API and how it helps in realtime.
     Learned How GET method works and how to implement it.
+
+**Day 5 - Schema**
+    learned what is schema
+    Learned to Write Schema for a project
