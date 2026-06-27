@@ -21,3 +21,6 @@
 **Day 5 - Schema**
     learned what is schema
     Learned to Write Schema for a project
+
+**Day 6 - Models**
+    Learned Models and Wrote for my basic backend project
